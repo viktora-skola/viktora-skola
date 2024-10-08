@@ -1,10 +1,3 @@
-- 👋 Hi, I’m viktors
-- 👀 I’m interested in coding stuff ig
-- 🌱 I’m currently learning how to read
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me - you don't
+i suppose you could say im doing this for school even though it's technically my free time
 
-<!---
-viktora-skola/viktora-skola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+im here to be better at everything than the guy with a name beginning with k
